@@ -1,0 +1,28 @@
+name: Oppose Gravity
+favicon: null
+layout_spectrum: 0.5886386765632778
+typography_spectrum: 0.3425434632226825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.20196909038349986
+  lightness: 0.6080209501087666
+  saturation: 0.35036533372476697
+  rhythmicContrast: 0.2440068949945271
+purpose: []

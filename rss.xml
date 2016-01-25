@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Oppose Gravity]]></title>
         <description><![CDATA[Oppose Gravity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oppose-gravity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 17:05:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 17:05:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oppose-gravity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38b0fef2-d5c5-47fb-a92b-886937546eb9.png">]]></description>
+            <link>https://thegrid.ai/oppose-gravity/3b82e1bd-e7cb-4489-a786-5fd6c3a33053/index.html</link>
+            <guid isPermaLink="false">3b82e1bd-e7cb-4489-a786-5fd6c3a33053</guid>
+            <pubDate>Mon, 25 Jan 2016 17:05:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b515676-a3a6-40aa-92e4-3b48a044d3a0.jpg">]]></description>
-            <link>undefined8d31af99-ee6e-4df4-8588-e55dac5ffad2/index.html</link>
+            <link>https://thegrid.ai/oppose-gravity/8d31af99-ee6e-4df4-8588-e55dac5ffad2/index.html</link>
             <guid isPermaLink="false">8d31af99-ee6e-4df4-8588-e55dac5ffad2</guid>
             <pubDate>Mon, 25 Jan 2016 17:05:19 GMT</pubDate>
         </item>

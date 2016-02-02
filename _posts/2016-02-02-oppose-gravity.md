@@ -16,7 +16,7 @@ keywords:
   - gymnastics
   - thailand
 description: ''
-datePublished: '2016-02-02T12:14:17.436Z'
+datePublished: '2016-02-02T12:14:17.452Z'
 dateModified: '2016-02-02T12:14:13.643Z'
 author: []
 related: []

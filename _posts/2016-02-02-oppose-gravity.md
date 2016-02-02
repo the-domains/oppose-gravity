@@ -16,8 +16,8 @@ keywords:
   - opposing
   - page
 description: Follow Us
-datePublished: '2016-02-02T09:07:57.456Z'
-dateModified: '2016-02-02T09:07:53.867Z'
+datePublished: '2016-02-02T09:10:28.157Z'
+dateModified: '2016-02-02T09:10:24.320Z'
 author:
   - avatar:
       src: 'https://yt3.ggpht.com/-cUDk2x8KAn0/AAAAAAAAAAI/AAAAAAAAAAA/iK4aCKEb9U0/s900-c-k-no/photo.jpg'
@@ -56,4 +56,4 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-<article style=""><h1>You Tube</h1><p>Follow Us!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0b13ef0f36ee6c08bbed54982c3f900501419e7.jpg" /></article>
+<article style=""><h1>You Tube</h1><p>Follow Us!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da160b6106ff9f5a7f9c3a9a0435b81adbf8033a.jpg" /></article>

@@ -5,42 +5,55 @@ inNav: true
 inLanguage: en
 starred: false
 keywords:
-  - calisthenics
-  - thailandmovementcollective
-  - opposegravity
-  - igfitness
-  - movementculture
-  - traininggroundbkk
-  - bangkok
   - movement
-  - gymnastics
-  - thailand
-description: ''
-datePublished: '2016-02-02T12:23:39.344Z'
-dateModified: '2016-02-02T12:23:35.598Z'
-author: []
+  - limits
+  - gravity
+  - dedicated
+  - truly
+  - bodybuilding
+  - bodyweight
+  - life
+  - opposing
+  - page
+description: Follow Us
+datePublished: '2016-02-02T12:25:23.438Z'
+dateModified: '2016-02-02T12:25:20.258Z'
+author:
+  - avatar:
+      src: 'https://yt3.ggpht.com/-cUDk2x8KAn0/AAAAAAAAAAI/AAAAAAAAAAA/iK4aCKEb9U0/s900-c-k-no/photo.jpg'
+      width: 900
+      height: 900
+      colors:
+        - - 27
+          - 27
+          - 27
+        - - 233
+          - 235
+          - 235
 related: []
 app_links:
-  - url: 'tumblr://x-callback-url/blog?blogName=oppose-gravity'
+  - url: 'vnd.youtube://user/UCoxEchyJ1KZTiCN5UTy7EDA'
     type: ios
-    app_name: Tumblr
-    app_store_id: '305343404'
-  - url: 'tumblr://x-callback-url/blog?blogName=oppose-gravity'
+    app_store_id: '544007664'
+    app_name: YouTube
+  - url: 'https://www.youtube.com/user/opposegravity?feature=applinks'
     type: android
-    app_name: Tumblr
-    package: com.tumblr
-title: Tumbler
+    app_name: YouTube
+    package: com.google.android.youtube
+  - url: 'https://www.youtube.com/user/opposegravity?feature=applinks'
+    type: web
+title: Youtube
 sourcePath: _posts/2016-02-02-oppose-gravity.md
 published: true
 authors: []
 publisher:
-  name: Tumblr
-  domain: oppose-gravity.tumblr.com
-  url: 'http://oppose-gravity.tumblr.com'
-  favicon: 'http://33.media.tumblr.com/avatar_7af7bb0ad1ef_128.png'
-url: tumbler/index.html
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: oppose-gravity/index.html
+_type: VideoObject
 _context: 'http://schema.org'
-_type: MediaObject
 
 ---
-<article style=""><h1>Tumbler</h1><p>Check Us Out!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f3a1fa50258157ed155f0c7d75a91459f8557b4.png" /></article>
+<article style=""><h1>YouTube</h1><p>Follow Us!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14b6b27b751d0c8d842d265ab357c0722cc7f511.jpg" /></article>

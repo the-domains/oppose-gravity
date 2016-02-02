@@ -16,8 +16,8 @@ keywords:
   - opposing
   - page
 description: Follow Us
-datePublished: '2016-02-02T08:58:27.284Z'
-dateModified: '2016-02-02T08:58:22.591Z'
+datePublished: '2016-02-02T09:04:22.686Z'
+dateModified: '2016-02-02T09:04:18.418Z'
 author:
   - avatar:
       src: 'https://yt3.ggpht.com/-cUDk2x8KAn0/AAAAAAAAAAI/AAAAAAAAAAA/iK4aCKEb9U0/s900-c-k-no/photo.jpg'
@@ -56,4 +56,4 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-<article style=""><h1>Oppose Gravity</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9446c0779f7ba5a9928d66c5fe486617b4adcbd.jpg" /></article>
+<article style=""><h1>You Tube</h1><p>Follow Us!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0b13ef0f36ee6c08bbed54982c3f900501419e7.jpg" /></article>

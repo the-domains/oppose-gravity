@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://society6.com'
-  name: Society6
-  favicon: 'https://society6.com/favicon.ico'
-  domain: society6.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: true
 keywords:
   - society6
   - artists
@@ -18,17 +16,21 @@ keywords:
   - commerce
   - privacy
 description: "Shop Oppose Gravity's Society6 Shop as one of the thousands of artists creating unique art from around the world. Worldwide shipping available at Society6.com."
-inLanguage: en
+datePublished: '2016-02-02T07:05:44.232Z'
+dateModified: '2016-02-02T07:05:36.984Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://society6.com/opposegravity'
 title: 'Oppose Gravity | Society6'
-datePublished: '2016-02-02T07:03:49.387Z'
-dateModified: '2016-02-02T07:00:59.645Z'
 sourcePath: _posts/2016-02-02-oppose-gravity-or-society6.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Society6
+  domain: society6.com
+  url: 'https://society6.com'
+  favicon: 'https://society6.com/favicon.ico'
+url: oppose-gravity-or-society6/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 

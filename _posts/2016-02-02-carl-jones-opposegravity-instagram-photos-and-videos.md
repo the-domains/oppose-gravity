@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  name: Instagram
-  domain: www.instagram.com
   url: 'https://www.instagram.com'
+  name: Instagram
   favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
+  domain: www.instagram.com
 keywords: []
 app_links:
   - url: 'instagram://user?username=opposegravity'
@@ -16,19 +16,15 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: Instagram
-datePublished: '2016-02-02T09:22:36.813Z'
-dateModified: '2016-02-02T09:22:31.821Z'
+isBasedOnUrl: 'https://www.instagram.com/opposegravity/'
+title: 'Carl Jones (@opposegravity) * Instagram photos and videos'
+datePublished: '2016-02-02T11:46:38.673Z'
+dateModified: '2016-02-02T11:45:46.591Z'
 sourcePath: _posts/2016-02-02-carl-jones-opposegravity-instagram-photos-and-videos.md
 published: true
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-description: ''
-authors: []
-url: instagram/index.html
+inFeed: true
+hasPage: false
+inNav: false
 _type: Photograph
 _context: 'http://schema.org'
 

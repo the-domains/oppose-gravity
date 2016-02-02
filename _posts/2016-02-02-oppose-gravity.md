@@ -16,8 +16,8 @@ keywords:
   - opposing
   - page
 description: Follow Us
-datePublished: '2016-02-02T09:05:47.296Z'
-dateModified: '2016-02-02T09:05:41.568Z'
+datePublished: '2016-02-02T09:07:57.443Z'
+dateModified: '2016-02-02T09:07:53.867Z'
 author:
   - avatar:
       src: 'https://yt3.ggpht.com/-cUDk2x8KAn0/AAAAAAAAAAI/AAAAAAAAAAA/iK4aCKEb9U0/s900-c-k-no/photo.jpg'
@@ -42,7 +42,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/user/opposegravity?feature=applinks'
     type: web
-title: Oppose Gravity
+title: 'Youtube!'
 sourcePath: _posts/2016-02-02-oppose-gravity.md
 published: true
 authors: []

@@ -1,9 +1,11 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: en
-starred: false
+author: []
+related: []
+publisher:
+  url: 'http://oppose-gravity.tumblr.com'
+  name: Tumblr
+  favicon: 'http://33.media.tumblr.com/avatar_7af7bb0ad1ef_128.png'
+  domain: oppose-gravity.tumblr.com
 keywords:
   - calisthenics
   - thailandmovementcollective
@@ -15,11 +17,8 @@ keywords:
   - movement
   - gymnastics
   - thailand
-description: ''
-datePublished: '2016-02-02T12:14:17.452Z'
-dateModified: '2016-02-02T12:14:13.643Z'
-author: []
-related: []
+description: "Balance is the ability to maintain the body's center of mass over its base of support.1 A properly functioning balance system allows humans to see clearly while moving, identify orientation with respect to gravity, determine direction and speed of movement, and make automatic postural adjustments to maintain posture and stability in various conditions and activities."
+inLanguage: en
 app_links:
   - url: 'tumblr://x-callback-url/blog?blogName=oppose-gravity'
     type: ios
@@ -29,18 +28,17 @@ app_links:
     type: android
     app_name: Tumblr
     package: com.tumblr
-title: Tumbler
+isBasedOnUrl: 'http://oppose-gravity.tumblr.com/'
+title: Oppose Gravity
+datePublished: '2016-02-02T12:16:34.067Z'
+dateModified: '2016-02-02T12:15:49.069Z'
 sourcePath: _posts/2016-02-02-oppose-gravity.md
 published: true
-authors: []
-publisher:
-  name: Tumblr
-  domain: oppose-gravity.tumblr.com
-  url: 'http://oppose-gravity.tumblr.com'
-  favicon: 'http://33.media.tumblr.com/avatar_7af7bb0ad1ef_128.png'
-url: oppose-gravity/index.html
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Tumbler followers!!</h1><p>Click here</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b119add497b1d6e3cb9baf68d45395b43f0c8a57.png" /></article>
+<article style=""><h1>Oppose Gravity</h1><p>Balance is the ability to maintain the body's center of mass over its base of support&amp;period;1 A properly functioning balance system allows humans to see clearly while moving&amp;comma; identify orientation with respect to gravity&amp;comma; determine direction and speed of movement&amp;comma; and make automatic postural adjustments to maintain posture and stability in various conditions and activities&amp;period;</p><img src="http://33.media.tumblr.com/avatar_7af7bb0ad1ef_128.png" /></article>

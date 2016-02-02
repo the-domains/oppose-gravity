@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Follow Us!!'
-datePublished: '2016-02-02T12:08:05.429Z'
-dateModified: '2016-02-02T12:08:01.454Z'
+datePublished: '2016-02-02T12:44:53.971Z'
+dateModified: '2016-02-02T12:44:50.644Z'
 author: []
 related: []
 app_links:
@@ -33,6 +33,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Follow Us!!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7818ded1e30feb5fb56de4ebbcd397ae716edaed.jpg)
-
-Check us out on Instagram for videos and pic about movement!
+Check us out on Instagram for videos and pic about movement! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7738665-090b-47f6-b8ce-fe8770a020b4.jpg)

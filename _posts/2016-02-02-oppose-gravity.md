@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://oppose-gravity.tumblr.com/'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - movement
   - gymnastics
   - thailand
-description: "Balance is the ability to maintain the body's center of mass over its base of support.1 A properly functioning balance system allows humans to see clearly while moving, identify orientation with respect to gravity, determine direction and speed of movement, and make automatic postural adjustments to maintain posture and stability in various conditions and activities."
-datePublished: '2016-02-02T08:28:29.418Z'
-dateModified: '2016-02-02T08:28:24.498Z'
+description: tumbler
+datePublished: '2016-02-02T08:31:15.529Z'
+dateModified: '2016-02-02T08:31:11.118Z'
 author: []
 related: []
 app_links:
@@ -39,6 +38,7 @@ publisher:
   domain: oppose-gravity.tumblr.com
   url: 'http://oppose-gravity.tumblr.com'
   favicon: 'http://33.media.tumblr.com/avatar_7af7bb0ad1ef_128.png'
+url: oppose-gravity/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 

@@ -17,15 +17,15 @@ app_links:
     app_name: Instagram
     package: com.instagram.android
 title: 'Carl Jones (@opposegravity) * Instagram photos and videos'
-datePublished: '2016-02-02T07:16:01.103Z'
-dateModified: '2016-02-02T07:15:57.704Z'
+datePublished: '2016-02-02T07:17:31.337Z'
+dateModified: '2016-02-02T07:17:25.690Z'
 sourcePath: _posts/2016-02-02-carl-jones-opposegravity-instagram-photos-and-videos.md
 published: true
 inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 description: ''
 authors: []
 url: carl-jones-opposegravity-instagram-photos-and-videos/index.html

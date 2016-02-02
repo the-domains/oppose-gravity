@@ -17,8 +17,8 @@ keywords:
   - gymnastics
   - thailand
 description: "Balance is the ability to maintain the body's center of mass over its base of support.1 A properly functioning balance system allows humans to see clearly while moving, identify orientation with respect to gravity, determine direction and speed of movement, and make automatic postural adjustments to maintain posture and stability in various conditions and activities."
-datePublished: '2016-02-02T08:25:07.996Z'
-dateModified: '2016-02-02T08:25:03.630Z'
+datePublished: '2016-02-02T08:26:56.872Z'
+dateModified: '2016-02-02T08:26:52.669Z'
 author: []
 related: []
 app_links:
@@ -43,4 +43,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Tumbler followers!!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87ca064ea1d2a119c77d0d62c28b14bb9c46fece.png" /></article>
+<article style=""><h1>Tumbler followers!!</h1><p>Balance is the ability to maintain the body's center of mass over its base of support.1 A properly functioning balance system allows humans to see clearly while moving, identify orientation with respect to gravity, determine direction and speed of movement, and make automatic postural adjustments to maintain posture and stability in various conditions and activities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87ca064ea1d2a119c77d0d62c28b14bb9c46fece.png" /></article>

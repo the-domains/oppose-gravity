@@ -1,4 +1,23 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
+keywords:
+  - movement
+  - limits
+  - gravity
+  - dedicated
+  - truly
+  - bodybuilding
+  - bodyweight
+  - life
+  - opposing
+  - page
+description: Follow Us
+datePublished: '2016-02-02T08:58:26.969Z'
+dateModified: '2016-02-02T08:58:22.591Z'
 author:
   - avatar:
       src: 'https://yt3.ggpht.com/-cUDk2x8KAn0/AAAAAAAAAAI/AAAAAAAAAAA/iK4aCKEb9U0/s900-c-k-no/photo.jpg'
@@ -12,24 +31,6 @@ author:
           - 235
           - 235
 related: []
-publisher:
-  url: 'https://www.youtube.com'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
-keywords:
-  - movement
-  - limits
-  - gravity
-  - dedicated
-  - truly
-  - bodybuilding
-  - bodyweight
-  - life
-  - opposing
-  - page
-description: This page is dedicated to opposing gravity through the performance of movement for the benefit of living a truly free life. We do not believe in any one syst...
-inLanguage: en
 app_links:
   - url: 'vnd.youtube://user/UCoxEchyJ1KZTiCN5UTy7EDA'
     type: ios
@@ -41,17 +42,18 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/user/opposegravity?feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/channel/UCoxEchyJ1KZTiCN5UTy7EDA'
 title: Oppose Gravity
-datePublished: '2016-02-02T08:56:27.567Z'
-dateModified: '2016-02-02T08:26:11.609Z'
 sourcePath: _posts/2016-02-02-oppose-gravity.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: oppose-gravity/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-<article style=""><h1>Oppose Gravity</h1><p>This page is dedicated to opposing gravity through the performance of movement for the benefit of living a truly free life&amp;period; We do not believe in any one syst&amp;period;&amp;period;&amp;period;</p><img src="https://yt3.ggpht.com/-cUDk2x8KAn0/AAAAAAAAAAI/AAAAAAAAAAA/iK4aCKEb9U0/s900-c-k-no/photo.jpg" /></article>
+<article style=""><h1>Oppose Gravity</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9446c0779f7ba5a9928d66c5fe486617b4adcbd.jpg" /></article>

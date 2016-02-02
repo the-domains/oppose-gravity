@@ -16,8 +16,8 @@ keywords:
   - gymnastics
   - thailand
 description: tumbler
-datePublished: '2016-02-02T08:35:00.655Z'
-dateModified: '2016-02-02T08:34:55.041Z'
+datePublished: '2016-02-02T08:38:19.201Z'
+dateModified: '2016-02-02T08:38:13.973Z'
 author: []
 related: []
 app_links:
@@ -29,7 +29,7 @@ app_links:
     type: android
     app_name: Tumblr
     package: com.tumblr
-title: Oppose Gravity
+title: Tumbler
 sourcePath: _posts/2016-02-02-oppose-gravity.md
 published: true
 authors: []

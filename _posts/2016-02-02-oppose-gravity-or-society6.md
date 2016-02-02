@@ -16,7 +16,7 @@ keywords:
   - commerce
   - privacy
 description: "Shop Oppose Gravity's Society6 Shop as one of the thousands of artists creating unique art from around the world. Worldwide shipping available at Society6.com."
-datePublished: '2016-02-02T14:24:13.216Z'
+datePublished: '2016-02-02T14:24:13.329Z'
 dateModified: '2016-02-02T14:24:08.200Z'
 author: []
 related: []

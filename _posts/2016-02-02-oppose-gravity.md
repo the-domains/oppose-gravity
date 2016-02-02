@@ -5,55 +5,42 @@ inNav: true
 inLanguage: en
 starred: false
 keywords:
+  - calisthenics
+  - thailandmovementcollective
+  - opposegravity
+  - igfitness
+  - movementculture
+  - traininggroundbkk
+  - bangkok
   - movement
-  - limits
-  - gravity
-  - dedicated
-  - truly
-  - bodybuilding
-  - bodyweight
-  - life
-  - opposing
-  - page
-description: Follow Us
-datePublished: '2016-02-02T12:12:25.377Z'
-dateModified: '2016-02-02T12:12:21.634Z'
-author:
-  - avatar:
-      src: 'https://yt3.ggpht.com/-cUDk2x8KAn0/AAAAAAAAAAI/AAAAAAAAAAA/iK4aCKEb9U0/s900-c-k-no/photo.jpg'
-      width: 900
-      height: 900
-      colors:
-        - - 27
-          - 27
-          - 27
-        - - 233
-          - 235
-          - 235
+  - gymnastics
+  - thailand
+description: ''
+datePublished: '2016-02-02T12:12:54.909Z'
+dateModified: '2016-02-02T12:12:51.273Z'
+author: []
 related: []
 app_links:
-  - url: 'vnd.youtube://user/UCoxEchyJ1KZTiCN5UTy7EDA'
+  - url: 'tumblr://x-callback-url/blog?blogName=oppose-gravity'
     type: ios
-    app_store_id: '544007664'
-    app_name: YouTube
-  - url: 'https://www.youtube.com/user/opposegravity?feature=applinks'
+    app_name: Tumblr
+    app_store_id: '305343404'
+  - url: 'tumblr://x-callback-url/blog?blogName=oppose-gravity'
     type: android
-    app_name: YouTube
-    package: com.google.android.youtube
-  - url: 'https://www.youtube.com/user/opposegravity?feature=applinks'
-    type: web
-title: Youtube
+    app_name: Tumblr
+    package: com.tumblr
+title: Tumbler
 sourcePath: _posts/2016-02-02-oppose-gravity.md
 published: true
 authors: []
 publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  name: Tumblr
+  domain: oppose-gravity.tumblr.com
+  url: 'http://oppose-gravity.tumblr.com'
+  favicon: 'http://33.media.tumblr.com/avatar_7af7bb0ad1ef_128.png'
 url: oppose-gravity/index.html
-_type: VideoObject
 _context: 'http://schema.org'
+_type: MediaObject
 
 ---
-<article style=""><h1>YouTube</h1><p>Follow Us!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da160b6106ff9f5a7f9c3a9a0435b81adbf8033a.jpg" /></article>
+<article style=""><h1>Tumbler followers!!</h1><p>Click here</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7176f5176ba081ea74af964b6845895cc89d1443.png" /></article>

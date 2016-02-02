@@ -5,22 +5,25 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 keywords: []
 description: "Oppose Gravity!!!!! So this video is just my progress since I started doing street workout style workouts after about a years worth of training! Still have a long road ahead, moving steadily toward all of my goals! This year I'm focused on increasing the weight, reps and form!"
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=AZrUWHGYfU8'
 title: Calisthenics/Street Workout Strength Progress Report
-datePublished: '2016-02-02T07:18:21.978Z'
-dateModified: '2016-02-02T07:14:15.513Z'
+datePublished: '2016-02-02T07:47:25.589Z'
+dateModified: '2016-02-02T07:42:10.111Z'
 sourcePath: _posts/2016-02-02-calisthenicsstreet-workout-strength-progress-report.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 

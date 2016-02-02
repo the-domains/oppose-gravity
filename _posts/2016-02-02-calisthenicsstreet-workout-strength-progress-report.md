@@ -14,7 +14,7 @@ description: "Oppose Gravity!!!!! So this video is just my progress since I star
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=AZrUWHGYfU8'
 title: Calisthenics/Street Workout Strength Progress Report
-datePublished: '2016-02-02T07:47:25.589Z'
+datePublished: '2016-02-02T07:47:25.590Z'
 dateModified: '2016-02-02T07:42:10.111Z'
 sourcePath: _posts/2016-02-02-calisthenicsstreet-workout-strength-progress-report.md
 published: true

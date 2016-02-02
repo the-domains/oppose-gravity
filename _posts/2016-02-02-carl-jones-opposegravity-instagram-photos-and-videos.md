@@ -17,7 +17,7 @@ app_links:
     app_name: Instagram
     package: com.instagram.android
 title: Instagram
-datePublished: '2016-02-02T09:22:36.777Z'
+datePublished: '2016-02-02T09:22:36.813Z'
 dateModified: '2016-02-02T09:22:31.821Z'
 sourcePath: _posts/2016-02-02-carl-jones-opposegravity-instagram-photos-and-videos.md
 published: true

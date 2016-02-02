@@ -1,46 +1,57 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: en
-starred: false
-keywords:
-  - calisthenics
-  - thailandmovementcollective
-  - opposegravity
-  - igfitness
-  - movementculture
-  - traininggroundbkk
-  - bangkok
-  - movement
-  - gymnastics
-  - thailand
-description: tumbler
-datePublished: '2016-02-02T08:41:15.457Z'
-dateModified: '2016-02-02T08:41:10.053Z'
-author: []
+author:
+  - avatar:
+      src: 'https://yt3.ggpht.com/-cUDk2x8KAn0/AAAAAAAAAAI/AAAAAAAAAAA/iK4aCKEb9U0/s900-c-k-no/photo.jpg'
+      width: 900
+      height: 900
+      colors:
+        - - 27
+          - 27
+          - 27
+        - - 233
+          - 235
+          - 235
 related: []
+publisher:
+  url: 'https://www.youtube.com'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+keywords:
+  - movement
+  - limits
+  - gravity
+  - dedicated
+  - truly
+  - bodybuilding
+  - bodyweight
+  - life
+  - opposing
+  - page
+description: This page is dedicated to opposing gravity through the performance of movement for the benefit of living a truly free life. We do not believe in any one syst...
+inLanguage: en
 app_links:
-  - url: 'tumblr://x-callback-url/blog?blogName=oppose-gravity'
+  - url: 'vnd.youtube://user/UCoxEchyJ1KZTiCN5UTy7EDA'
     type: ios
-    app_name: Tumblr
-    app_store_id: '305343404'
-  - url: 'tumblr://x-callback-url/blog?blogName=oppose-gravity'
+    app_store_id: '544007664'
+    app_name: YouTube
+  - url: 'https://www.youtube.com/user/opposegravity?feature=applinks'
     type: android
-    app_name: Tumblr
-    package: com.tumblr
-title: Tumbler
+    app_name: YouTube
+    package: com.google.android.youtube
+  - url: 'https://www.youtube.com/user/opposegravity?feature=applinks'
+    type: web
+isBasedOnUrl: 'https://www.youtube.com/channel/UCoxEchyJ1KZTiCN5UTy7EDA'
+title: Oppose Gravity
+datePublished: '2016-02-02T08:56:27.567Z'
+dateModified: '2016-02-02T08:26:11.609Z'
 sourcePath: _posts/2016-02-02-oppose-gravity.md
 published: true
-authors: []
-publisher:
-  name: Tumblr
-  domain: oppose-gravity.tumblr.com
-  url: 'http://oppose-gravity.tumblr.com'
-  favicon: 'http://33.media.tumblr.com/avatar_7af7bb0ad1ef_128.png'
-url: oppose-gravity/index.html
+inFeed: true
+hasPage: false
+inNav: false
+_type: VideoObject
 _context: 'http://schema.org'
-_type: MediaObject
 
 ---
-<article style=""><h1>Tumbler followers!!</h1><p>Click here</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7176f5176ba081ea74af964b6845895cc89d1443.png" /></article>
+<article style=""><h1>Oppose Gravity</h1><p>This page is dedicated to opposing gravity through the performance of movement for the benefit of living a truly free life&amp;period; We do not believe in any one syst&amp;period;&amp;period;&amp;period;</p><img src="https://yt3.ggpht.com/-cUDk2x8KAn0/AAAAAAAAAAI/AAAAAAAAAAA/iK4aCKEb9U0/s900-c-k-no/photo.jpg" /></article>

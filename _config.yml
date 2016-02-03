@@ -8,7 +8,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: http
+  google: 'http://opposegravity.com'
   facebook: null
   twitter: null
 opengraph:

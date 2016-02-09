@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://wakezine.com/how-in-control-of-your-life-are-you-carl-jones/'
 title: How In Control of Your Life Are You? - Carl Jones - Wake Magazine
-datePublished: '2016-02-09T10:01:26.431Z'
-dateModified: '2016-02-09T09:23:42.125Z'
+datePublished: '2016-02-09T10:44:14.852Z'
+dateModified: '2016-02-09T10:43:02.537Z'
 sourcePath: _posts/2016-02-09-how-in-control-of-your-life-are-you-carl-jones-wake-mag.md
 published: true
 inFeed: true

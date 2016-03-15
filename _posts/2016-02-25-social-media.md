@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-25T17:28:35.505Z'
-dateModified: '2016-02-25T17:25:42.646Z'
+description: LINKS HERE
+datePublished: '2016-03-15T17:58:51.071Z'
+dateModified: '2016-03-15T17:58:49.429Z'
 title: Social Media
 author: []
 sourcePath: _posts/2016-02-25-social-media.md
@@ -22,7 +22,7 @@ url: social-media/index.html
 _type: WebPage
 
 ---
-LINKS HERE
+Social Media
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dcf382a-a713-4110-a0ed-d0b7c799873e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec7c7ede739dace5f848f8cca8d1389a50f38d95.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5b4759873443bb2aae8b790e7b296162edd8434.png)

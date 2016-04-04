@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-04T07:53:50.009Z'
-dateModified: '2016-04-04T07:53:04.079Z'
+description: 'Click on the images below to add us on your favorite social media application!'
+datePublished: '2016-04-04T07:55:35.059Z'
+dateModified: '2016-04-04T07:54:06.399Z'
 title: Social Media
 author: []
 sourcePath: _posts/2016-02-25-social-media.md

@@ -15,9 +15,9 @@ keywords:
   - sleeves
   - commerce
   - privacy
-description: "Shop Oppose Gravity's Society6 Shop as one of the thousands of artists creating unique art from around the world. Worldwide shipping available at Society6.com."
-datePublished: '2016-02-02T14:24:13.329Z'
-dateModified: '2016-02-02T14:24:08.200Z'
+description: 'MENS/WOMENS T-SHIRTS:'
+datePublished: '2016-04-04T07:22:35.126Z'
+dateModified: '2016-04-04T07:22:34.007Z'
 author: []
 related: []
 app_links: []
@@ -36,15 +36,38 @@ _type: MediaObject
 
 ---
 ![Shop Oppose Gravity's Society6 Shop as one of the thousands of artists creating unique art from around the world. Worldwide shipping available at Society6.com.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e818b8db-58fe-423e-aa03-88b442c280d7.JPG)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/511e6e523191a550a3b9857d195b080f954b0d62.jpg)
 
-Its more, its a lifestyle!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/baa0b5be67938626f86cea0a1adb8712fbedf323.jpg)
+MENS/WOMENS T-SHIRTS:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86fe0a2e-990d-4935-95bf-5402b87e8be4.jpg)
 
-Its what we do!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb208538e403e42441e27fe0d5d15ee800d44580.jpg)
+Grab a high quality t-shirt in both mens and women's sizes with an assortment of colors available!
 
-How we do it!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c1515b06e8bc7695a90b2fe90ba0f4628a13c3c.jpg)
+UNISEX LONG SLEEVE T-SHIRTS:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7969b41d-495f-42de-992e-6100f7ddb9c5.jpg)
 
-OPPOSE GRAVITY!!!
+Feeling a bit chilly add this long sleeve T-shirt to your winter shopping lists!
+
+UNISEX HOODY/PULLOVER:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9b63f0f-eeaa-4247-8162-a7f2d6040a43.jpg)
+
+Need to cover up grab this hoody and hold in the heat while you train!
+
+UNISEX V-NECK T-SHIRTS:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4e942db-e9d9-4a99-978e-14a608f474b5.jpg)
+
+A nice addition to your wardrobe!
+
+PHONE CASES:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e464b949-4438-47a3-8a09-1ee402e6e093.jpg)
+
+Protect your investment with this slick case for your phone!
+
+LAPTOP/IPAD SKINS:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07463866-07ff-4749-b6ef-583ad320a87d.jpg)
+
+want to add some swag to your favorite laptop, macbook, or ipad look no further!
+
+WALL CLOCK:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a86a3be4-faa1-4fcd-a0bf-ca6076aa2c73.jpg)
+
+keeping track of time is always must now you can do it with style as you Oppose Gravity!

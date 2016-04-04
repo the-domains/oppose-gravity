@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'INSTAGRAM:'
-datePublished: '2016-04-04T11:44:23.638Z'
-dateModified: '2016-04-04T11:44:17.808Z'
+description: CLICK ON THE IMAGES BELOW TO ADD ME ON YOUR FAVORITE SOCIAL MEDIA APPLICATIONS
+datePublished: '2016-04-04T17:08:24.860Z'
+dateModified: '2016-04-04T17:08:23.669Z'
 title: SOCIAL MEDIA
 author: []
 sourcePath: _posts/2016-04-04-social-media.md
@@ -22,9 +22,10 @@ url: social-media/index.html
 _type: WebPage
 
 ---
-* _**CLICK ON THE IMAGES BELOW TO ADD ****ME ON YOUR FAVORITE SOCIAL MEDIA APPLICATIONS**_****
+PLEASE CLICK ON THE PICTURES BELOW TO ADD ME TO YOUR FAVORITE SOCIAL MEDIA APPLICATION!
 
-INSTAGRAM: ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ede4ba8-c08b-45ac-8da4-ea959e953e39.png)
+INSTAGRAM
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ede4ba8-c08b-45ac-8da4-ea959e953e39.png)
 
 Follow me on instagram to see movement tips and drills! 
 

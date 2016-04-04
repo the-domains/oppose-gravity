@@ -6,24 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'With the fitness industry full of training programs, boot camps, and other craziness it can seem a bit irritating when first looking for a personal trainer/program to begin with! Look no further I’m going to get you thinking in the right direction.'
-datePublished: '2016-02-09T10:01:03.690Z'
-dateModified: '2016-02-09T10:00:36.354Z'
+datePublished: '2016-04-04T06:14:56.494Z'
+dateModified: '2016-04-04T06:14:48.977Z'
 title: 'Which Program is Right for You!'
 author: []
+sourcePath: _posts/2016-02-09-which-program-is-right-for-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-which-program-is-right-for-you.md
-published: true
 url: which-program-is-right-for-you/index.html
 _type: Article
 
 ---
-**_Which Program is Right for You!_**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3ebfb72-b7c8-48f8-8058-f3425addd8fa.png)
+
+**_Which Program is Right for You!_**
 
 **With the fitness industry full of training programs, boot camps, and other craziness it can seem a bit irritating when first looking for a personal trainer/program to begin with! Look no further I'm going to get you thinking in the right direction.**
 

@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: LINKS HERE
-datePublished: '2016-03-15T17:58:51.071Z'
-dateModified: '2016-03-15T17:58:49.429Z'
+description: ''
+datePublished: '2016-04-04T04:32:55.081Z'
+dateModified: '2016-04-04T04:29:41.886Z'
 title: Social Media
 author: []
 sourcePath: _posts/2016-02-25-social-media.md
@@ -23,8 +23,17 @@ _type: WebPage
 
 ---
 Social Media
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dcf382a-a713-4110-a0ed-d0b7c799873e.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec7c7ede739dace5f848f8cca8d1389a50f38d95.png)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5b4759873443bb2aae8b790e7b296162edd8434.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99cadec2-777e-4283-9955-8b5b4e22bebd.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c38aba2-0f24-4408-aa9e-debee852855f.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f40c0871-30b4-4788-99ad-b2ddc6a30471.png)
+
+Follow Oppose Gravity on your favorite social media applications and always be up to date on up-coming events, classes, and products! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9b86e0d-5ec9-4e93-bef0-4403f8df95c2.png)
+
+See whats going on as it happens!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ee4ce78-ee21-44db-a5b4-f3958a0c2a16.png)
+
+Subscribe to catch cool videos with tips and tricks to improve your mobility!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f89e7564-c0fd-430b-9574-2805aaba58c5.png)
+
+Post your comments and questions, like and share with your friends!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8682827-d870-4ba7-8b72-c26bcf36f1ec.png)
+
+Get in-depth information that will benefit your present skill set!

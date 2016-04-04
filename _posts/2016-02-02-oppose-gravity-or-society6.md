@@ -15,9 +15,9 @@ keywords:
   - sleeves
   - commerce
   - privacy
-description: 'MENS/WOMENS T-SHIRTS:'
-datePublished: '2016-04-04T07:22:35.126Z'
-dateModified: '2016-04-04T07:22:34.007Z'
+description: "Grab a high quality t-shirt in both mens and women's sizes with an assortment of colors available!"
+datePublished: '2016-04-04T07:31:04.606Z'
+dateModified: '2016-04-04T07:29:58.538Z'
 author: []
 related: []
 app_links: []
@@ -37,25 +37,26 @@ _type: MediaObject
 ---
 ![Shop Oppose Gravity's Society6 Shop as one of the thousands of artists creating unique art from around the world. Worldwide shipping available at Society6.com.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e818b8db-58fe-423e-aa03-88b442c280d7.JPG)
 
+  
 MENS/WOMENS T-SHIRTS:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86fe0a2e-990d-4935-95bf-5402b87e8be4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d818f5693634b52c183ac5c6f42969b1436ea5.jpg)
 
-Grab a high quality t-shirt in both mens and women's sizes with an assortment of colors available!
+Grab a high quality t-shirt in both men's and women's sizes with an assortment of colors available!
 
 UNISEX LONG SLEEVE T-SHIRTS:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7969b41d-495f-42de-992e-6100f7ddb9c5.jpg)
 
-Feeling a bit chilly add this long sleeve T-shirt to your winter shopping lists!
+Feeling a bit chilly add this long sleeve T-shirt to your winter shopping lists, an assortment of colors available!
 
 UNISEX HOODY/PULLOVER:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9b63f0f-eeaa-4247-8162-a7f2d6040a43.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5bfa9fd6a5f69370cafe1c6efd5b0c83a41e4c6.jpg)
 
-Need to cover up grab this hoody and hold in the heat while you train!
+Need to cover up grab this hoodie and hold in the heat while you train, an assortment of colors available!
 
 UNISEX V-NECK T-SHIRTS:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4e942db-e9d9-4a99-978e-14a608f474b5.jpg)
 
-A nice addition to your wardrobe!
+A nice addition to your wardrobe, an assortment of colors available!
 
 PHONE CASES:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e464b949-4438-47a3-8a09-1ee402e6e093.jpg)

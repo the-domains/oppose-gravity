@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Click on the images below to add us on your favorite social media application!'
-datePublished: '2016-04-04T08:00:11.530Z'
-dateModified: '2016-04-04T08:00:11.219Z'
+datePublished: '2016-04-04T08:02:43.917Z'
+dateModified: '2016-04-04T08:02:42.774Z'
 title: Social Media
 author: []
 sourcePath: _posts/2016-02-25-social-media.md
@@ -27,7 +27,7 @@ Click on the images below to add us on your favorite social media application!
 INSTAGRAM
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ece249f2c2ff5afe9dda81eb0b5cae3f7b3b18a8.png)
 
-Follow Oppose Gravity on IG and always be up to date on upcoming events, classes, and products! 
+Follow me on IG and always be up to date on upcoming events, classes, and products! 
 
 TWITTER:
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/141cfb6d2b864d2624e3afc2a015860950a7d431.png)

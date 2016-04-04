@@ -15,9 +15,9 @@ keywords:
   - sleeves
   - commerce
   - privacy
-description: "Grab a high quality t-shirt in both mens and women's sizes with an assortment of colors available!"
-datePublished: '2016-04-04T07:31:04.606Z'
-dateModified: '2016-04-04T07:29:58.538Z'
+description: "Grab a high quality t-shirt in both men's and women's sizes with an assortment of colors available!"
+datePublished: '2016-04-04T07:36:31.946Z'
+dateModified: '2016-04-04T07:36:30.459Z'
 author: []
 related: []
 app_links: []
@@ -35,7 +35,11 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Shop Oppose Gravity's Society6 Shop as one of the thousands of artists creating unique art from around the world. Worldwide shipping available at Society6.com.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e818b8db-58fe-423e-aa03-88b442c280d7.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3b73af77cadc56a8af7f658dde24599176dd188.jpg)
+
+To shop Oppose Gravity's Society6 page just click on the images below.
+
+Worldwide shipping available at Society6.com
 
   
 MENS/WOMENS T-SHIRTS:

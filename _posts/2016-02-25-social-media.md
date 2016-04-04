@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Click on the images below to add us on your favorite social media application!'
-datePublished: '2016-04-04T08:45:14.158Z'
-dateModified: '2016-04-04T08:44:54.148Z'
+datePublished: '2016-04-04T08:56:33.759Z'
+dateModified: '2016-04-04T08:56:24.563Z'
 title: Social Media
 author: []
 sourcePath: _posts/2016-02-25-social-media.md
@@ -25,7 +25,7 @@ _type: WebPage
 Click on the images below to add us on your favorite social media application!
 
 INSTAGRAM:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5b94595-8e34-455c-b5a5-283c5990b4b2.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0de57d1-da6f-4d1a-b60d-a18cee3ac545.png)
 
 Follow me on IG and always be up to date on upcoming events, classes, and products! 
 

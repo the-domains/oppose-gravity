@@ -16,8 +16,8 @@ keywords:
   - commerce
   - privacy
 description: "Grab a high quality t-shirt in both men's and women's sizes with an assortment of colors available!"
-datePublished: '2016-04-04T07:36:31.946Z'
-dateModified: '2016-04-04T07:36:30.459Z'
+datePublished: '2016-04-04T07:45:31.409Z'
+dateModified: '2016-04-04T07:38:56.970Z'
 author: []
 related: []
 app_links: []
@@ -41,7 +41,6 @@ To shop Oppose Gravity's Society6 page just click on the images below.
 
 Worldwide shipping available at Society6.com
 
-  
 MENS/WOMENS T-SHIRTS:
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d818f5693634b52c183ac5c6f42969b1436ea5.jpg)
 
@@ -75,4 +74,4 @@ want to add some swag to your favorite laptop, macbook, or ipad look no further!
 WALL CLOCK:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a86a3be4-faa1-4fcd-a0bf-ca6076aa2c73.jpg)
 
-keeping track of time is always must now you can do it with style as you Oppose Gravity!
+keeping track of time is always a must now you can do it with style as you Oppose Gravity!

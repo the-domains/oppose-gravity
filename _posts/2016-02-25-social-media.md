@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Click on the images below to add us on your favorite social media application!'
-datePublished: '2016-04-04T07:55:35.059Z'
-dateModified: '2016-04-04T07:54:06.399Z'
+datePublished: '2016-04-04T07:57:59.675Z'
+dateModified: '2016-04-04T07:57:43.348Z'
 title: Social Media
 author: []
 sourcePath: _posts/2016-02-25-social-media.md
@@ -25,26 +25,26 @@ _type: WebPage
 Click on the images below to add us on your favorite social media application!
 
 INSTAGRAM
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f40c0871-30b4-4788-99ad-b2ddc6a30471.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ece249f2c2ff5afe9dda81eb0b5cae3f7b3b18a8.png)
 
 Follow Oppose Gravity on IG and always be up to date on upcoming events, classes, and products! 
 
 TWITTER:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9b86e0d-5ec9-4e93-bef0-4403f8df95c2.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/141cfb6d2b864d2624e3afc2a015860950a7d431.png)
 
 See whats going on as it happens!
 
 YOUTUBE:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ee4ce78-ee21-44db-a5b4-f3958a0c2a16.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e640125e56840702111e099082d0c2fab124d4b9.png)
 
 Subscribe to catch cool videos with tips and tricks to improve your mobility!
 
 FACEBOOK:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f89e7564-c0fd-430b-9574-2805aaba58c5.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e64b647dc083894ebc871b509355a098961cdbf0.png)
 
 Post your comments and questions, like and share with your friends!
 
 TUMBLR:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8682827-d870-4ba7-8b72-c26bcf36f1ec.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/46e4a4db21975072659a06760ad7fac2e1cbefc9.png)
 
 Get in-depth information that will benefit your present skill set!

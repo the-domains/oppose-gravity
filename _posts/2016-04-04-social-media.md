@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-04T11:24:09.256Z'
-dateModified: '2016-04-04T11:23:23.091Z'
+description: 'INSTAGRAM:'
+datePublished: '2016-04-04T11:35:02.766Z'
+dateModified: '2016-04-04T11:26:20.121Z'
 title: SOCIAL MEDIA
 author: []
+sourcePath: _posts/2016-04-04-social-media.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-social-media.md
-published: true
 url: social-media/index.html
 _type: WebPage
 

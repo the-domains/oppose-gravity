@@ -16,12 +16,12 @@ keywords:
   - commerce
   - privacy
 description: "Grab a high quality t-shirt in both men's and women's sizes with an assortment of colors available!"
-datePublished: '2016-04-04T07:45:31.409Z'
-dateModified: '2016-04-04T07:38:56.970Z'
+datePublished: '2016-04-04T12:07:13.267Z'
+dateModified: '2016-04-04T12:06:34.019Z'
 author: []
 related: []
 app_links: []
-title: Shop Oppose Gravity via Society6
+title: SHOP O.G. VIA SOCIETY6
 sourcePath: _posts/2016-02-02-oppose-gravity-or-society6.md
 published: true
 authors: []

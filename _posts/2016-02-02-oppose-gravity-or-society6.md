@@ -16,8 +16,8 @@ keywords:
   - commerce
   - privacy
 description: "Grab a high quality t-shirt in both men's and women's sizes with an assortment of colors available!"
-datePublished: '2016-04-06T12:27:11.687Z'
-dateModified: '2016-04-06T12:27:10.719Z'
+datePublished: '2016-04-06T12:31:48.150Z'
+dateModified: '2016-04-06T12:31:42.446Z'
 author: []
 related: []
 app_links: []
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Shop Oppose Gravity's Society6 Shop as one of the thousands of artists creating unique art from around the world. Worldwide shipping available at Society6.com.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3b73af77cadc56a8af7f658dde24599176dd188.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3b73af77cadc56a8af7f658dde24599176dd188.jpg)
 
 To shop Oppose Gravity's Society6 page just click on the images below.
 

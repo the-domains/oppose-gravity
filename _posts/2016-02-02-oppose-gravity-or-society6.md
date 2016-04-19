@@ -16,12 +16,14 @@ keywords:
   - commerce
   - privacy
 description: 'Protect your investment with this slick case for your phone!'
-datePublished: '2016-04-07T03:30:40.958Z'
-dateModified: '2016-04-07T03:30:40.030Z'
-author: []
+datePublished: '2016-04-19T01:00:30.228Z'
+dateModified: '2016-04-19T01:00:28.953Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
-title: SHOP O.G.
+title: Shop @ Society6
 sourcePath: _posts/2016-02-02-oppose-gravity-or-society6.md
 published: true
 authors: []
@@ -42,7 +44,7 @@ To shop Oppose Gravity's Society6 page just click on the images below.
 Worldwide shipping available at Society6.com
 
 MENS T-SHIRTS:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0327440b-94cf-4b68-bdcf-8323e2342af1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d80c321ccaa993578c16181bbd5e48644fc25958.jpg)
 
 Grab a high quality t-shirt with an assortment of colors/sizes are available!
 
@@ -54,7 +56,7 @@ Grab a high quality t-shirt with an assortment of colors/sizes are available!
 UNISEX LONG SLEEVE T-SHIRTS:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86ebc578-b910-4c01-8987-9cc82d43e99a.jpg)
 
-Feeling a bit chilly add this long sleeve T-shirt to your winter shopping lists, an assortment of colors/sizes are  available!
+Feeling a bit chilly add this long sleeve T-shirt to your winter shopping lists, an assortment of colors/sizes are available!
 
 UNISEX HOODY/PULLOVER:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54a0cc99-6c33-4edd-81ef-b9d847c1b3f7.jpg)

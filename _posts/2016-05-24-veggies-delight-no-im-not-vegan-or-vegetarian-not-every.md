@@ -1,15 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BFgviScGh8o/?taken-by=opposegravity'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-24T08:22:29.006Z'
+dateModified: '2016-05-24T08:22:24.924Z'
 author:
   - name: opposegravity
     url: 'https://www.instagram.com/opposegravity'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1252209760856055592'
     type: ios
@@ -25,16 +28,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BFgviScGh8o/?taken-by=opposegravity'
 title: "Veggies delight!!! No I'm not vegan or vegetarian! Not every meal has to have meat. #healthylife #igfitness #movementculture #foodporn #fitness"
-datePublished: '2016-05-24T07:40:29.218Z'
-dateModified: '2016-05-24T07:39:15.892Z'
-description: ''
-starred: false
 sourcePath: _posts/2016-05-24-veggies-delight-no-im-not-vegan-or-vegetarian-not-every.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico'
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 

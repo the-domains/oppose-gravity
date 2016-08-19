@@ -1,20 +1,4 @@
-name: Oppose Gravity
-favicon: null
-layout_spectrum: 0.70791
 typography_spectrum: 0.32282
-title: Oppose Gravity
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73496378-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,20 @@ color:
   lightness: 0.8125
   saturation: 0.8125
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.70791
+analytics:
+  google: UA-73496378-1
+  facebook: null
+  twitter: null
+name: Oppose Gravity
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Oppose Gravity
 purpose: []
